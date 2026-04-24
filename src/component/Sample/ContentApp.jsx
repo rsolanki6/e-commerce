@@ -48,8 +48,8 @@ export default function ContentApp() {
           src="https://lh3.googleusercontent.com/aida-public/AB6AXuCUYr7MrSbNMLswrARa41LJhJKttIkDzhAqN4vzaSV870xdOJ7dzUulZMQWc9ndoCWYWIHNSAP0uRDeQ4htvijJX4L6vypJJrUNeU2PeU7qGjZQbAVbyNWkFOmKf-fD8-GMARfAKhhvxd6gH58I8YRL22gdbjcOsWQecQbCwfjkyfkSHPzluc96_KuvbwkIQZE9bQGk2ejJlHkf27WVpA8gXxlppZYsOjTyGBIKJ1XTugzAJFHiTAvWiy_PpDd5PL-jCZYZAG5ckNA"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent flex flex-col justify-end p-8">
-          <h3 className="text-white font-h3 text-h3 mb-2 text-gray-700">Ready-to-Wear</h3>
-          <p className="text-white/80 text-label-sm text-gray-800">
+          <h3 className="text-gray-700 font-h3 text-h3 mb-2">Ready-to-Wear</h3>
+          <p className="text-gray-700 text-label-sm">
             Sustainable fine fabrics
           </p>
         </div>
