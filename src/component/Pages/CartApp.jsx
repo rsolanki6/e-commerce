@@ -1,6 +1,7 @@
 import React from 'react'
 import HeaderApp from '../Sample/HeaderApp'
 import FooterApp from '../Sample/FooterApp'
+import { Link } from 'react-router-dom'
 
 export default function CartApp() {
   return (
@@ -110,9 +111,9 @@ export default function CartApp() {
             </div>
 
             {/* CONTINUE SHOPPING */}
-            <a href="#" className="text-blue-500 text-sm">
+            <Link to="/shop" className="text-teal-600 text-sm">
               ← Continue Shopping
-            </a>
+            </Link>
 
           </div>
 

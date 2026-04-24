@@ -8,7 +8,7 @@ export default function ProductDetailApp() {
       <HeaderApp />
       
 
-          <main className="pt-32 pb-xl max-w-[1280px] mx-auto px-6">
+<main className="pt-32 pb-xl max-w-[1280px] mx-auto px-6">
   {/* Hero Section */}
   <header className="mb-lg">
     <h1 className="font-h1 text-h1 text-primary mb-sm">Premium Collection</h1>

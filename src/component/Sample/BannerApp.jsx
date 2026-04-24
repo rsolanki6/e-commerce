@@ -17,10 +17,10 @@ export default function BannerApp() {
             <span className="inline-block px-3 py-1 bg-secondary-container text-on-secondary-container text-label-sm rounded-full mb-6">
               New Collection 2024
             </span>
-            <h1 className="font-h1 text-h1 text-primary mb-6 text-black">
+            <h1 className="font-h1 text-h1 text-primary mb-6 text-gray-950">
               Elevate Your Everyday Essentials
             </h1>
-            <p className="font-body-lg text-body-lg text-on-surface-variant mb-10 leading-relaxed text-black">
+            <p className="font-body-lg text-body-lg text-on-surface-variant mb-10 leading-relaxed text-gray-950">
               Experience the perfect blend of modern craftsmanship and timeless
               design. Our curated selection brings luxury to your doorstep.
             </p>
