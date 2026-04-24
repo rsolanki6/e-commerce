@@ -7,7 +7,7 @@ export default function CartApp() {
      <>
      <HeaderApp />
 
-     <main className="flex-grow pt-32 pb-xl px-6 max-w-[1280px] mx-auto w-full">
+<main className="flex-grow pt-32 pb-xl px-6 max-w-[1280px] mx-auto w-full overflow-hidden">
   <header className="mb-lg">
     <h1 className="font-h1 text-h1 text-primary">Your Cart</h1>
     <p className="text-on-surface-variant mt-2 font-body-lg">

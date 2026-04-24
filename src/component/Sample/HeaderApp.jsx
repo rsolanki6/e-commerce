@@ -44,10 +44,7 @@ export default function HeaderApp() {
             </div>
 
             {/* ✅ MOBILE TOGGLER (NEW) */}
-            <button
-              onClick={() => setIsOpen(true)}
-              className="md:hidden"
-            >
+            <button onClick={() => setIsOpen(true)} className="md:hidden">
               <span className="material-symbols-outlined text-3xl">
                 menu
               </span>
