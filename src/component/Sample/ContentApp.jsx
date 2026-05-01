@@ -247,11 +247,11 @@ export default function ContentApp() {
           What Our Clients Say
         </h2>
         <div className="flex gap-1 text-secondary mb-6">
-          <span className="material-symbols-outlined fill">star</span>
-          <span className="material-symbols-outlined fill">star</span>
-          <span className="material-symbols-outlined fill">star</span>
-          <span className="material-symbols-outlined fill">star</span>
-          <span className="material-symbols-outlined fill">star</span>
+          <span className="material-symbols-outlined" style={{ fontVariationSettings: "'FILL' 1" }}>star</span>
+          <span className="material-symbols-outlined" style={{ fontVariationSettings: "'FILL' 1" }}>star</span>
+          <span className="material-symbols-outlined" style={{ fontVariationSettings: "'FILL' 1" }}>star</span>
+          <span className="material-symbols-outlined" style={{ fontVariationSettings: "'FILL' 1" }}>star</span>
+          <span className="material-symbols-outlined" style={{ fontVariationSettings: "'FILL' 1" }}>star</span>
         </div>
         <p className="text-on-surface-variant">
           4.9/5 Average Rating from over 10,000+ happy customers worldwide.
